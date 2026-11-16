@@ -1,0 +1,14 @@
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\bin\Debug\net9.0\Demo02.exe
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\bin\Debug\net9.0\Demo02.deps.json
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\bin\Debug\net9.0\Demo02.runtimeconfig.json
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\bin\Debug\net9.0\Demo02.dll
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\bin\Debug\net9.0\Demo02.pdb
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\obj\Debug\net9.0\Demo02.GeneratedMSBuildEditorConfig.editorconfig
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\obj\Debug\net9.0\Demo02.AssemblyInfoInputs.cache
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\obj\Debug\net9.0\Demo02.AssemblyInfo.cs
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\obj\Debug\net9.0\Demo02.csproj.CoreCompileInputs.cache
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\obj\Debug\net9.0\Demo02.dll
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\obj\Debug\net9.0\refint\Demo02.dll
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\obj\Debug\net9.0\Demo02.pdb
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\obj\Debug\net9.0\Demo02.genruntimeconfig.cache
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Demo02\obj\Debug\net9.0\ref\Demo02.dll

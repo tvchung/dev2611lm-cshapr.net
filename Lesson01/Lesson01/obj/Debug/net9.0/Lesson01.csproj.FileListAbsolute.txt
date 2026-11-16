@@ -1,0 +1,14 @@
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\bin\Debug\net9.0\Lesson01.exe
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\bin\Debug\net9.0\Lesson01.deps.json
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\bin\Debug\net9.0\Lesson01.runtimeconfig.json
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\bin\Debug\net9.0\Lesson01.dll
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\bin\Debug\net9.0\Lesson01.pdb
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\Lesson01.GeneratedMSBuildEditorConfig.editorconfig
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\Lesson01.AssemblyInfoInputs.cache
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\Lesson01.AssemblyInfo.cs
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\Lesson01.csproj.CoreCompileInputs.cache
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\Lesson01.dll
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\refint\Lesson01.dll
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\Lesson01.pdb
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\Lesson01.genruntimeconfig.cache
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\ref\Lesson01.dll
