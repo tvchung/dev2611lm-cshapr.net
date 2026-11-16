@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\devmaster.edu.vn\\DEV2611LM-.NET\\dev2611lm-cshapr.net\\Lesson01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EA96665-41B8-44E4-8D1A-0B23EEE8B05C}|Demo02\\Demo02.csproj|d:\\devmaster.edu.vn\\dev2611lm-.net\\dev2611lm-cshapr.net\\lesson01\\demo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EA96665-41B8-44E4-8D1A-0B23EEE8B05C}|Demo02\\Demo02.csproj|solutionrelative:demo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{609E151A-0836-47D6-9283-2FD593C0F090}|Lesson01\\Lesson01.csproj|d:\\devmaster.edu.vn\\dev2611lm-.net\\dev2611lm-cshapr.net\\lesson01\\lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{609E151A-0836-47D6-9283-2FD593C0F090}|Lesson01\\Lesson01.csproj|solutionrelative:lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA96665-41B8-44E4-8D1A-0B23EEE8B05C}|Demo02\\Demo02.csproj|d:\\devmaster.edu.vn\\dev2611lm-.net\\dev2611lm-cshapr.net\\lesson01\\demo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA96665-41B8-44E4-8D1A-0B23EEE8B05C}|Demo02\\Demo02.csproj|solutionrelative:demo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\devmaster.edu.vn\\DEV2611LM-.NET\\dev2611lm-cshapr.net\\Lesson01\\Demo02\\Program.cs",
               "RelativeDocumentMoniker": "Demo02\\Program.cs",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\devmaster.edu.vn\\DEV2611LM-.NET\\dev2611lm-cshapr.net\\Lesson01\\Lesson01\\Program.cs",
               "RelativeDocumentMoniker": "Lesson01\\Program.cs",
               "ToolTip": "D:\\devmaster.edu.vn\\DEV2611LM-.NET\\dev2611lm-cshapr.net\\Lesson01\\Lesson01\\Program.cs",
               "RelativeToolTip": "Lesson01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-16T12:27:27.847Z",
               "EditorCaption": ""

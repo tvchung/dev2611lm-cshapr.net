@@ -12,3 +12,4 @@ D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\De
 D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\Lesson01.pdb
 D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\Lesson01.genruntimeconfig.cache
 D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\ref\Lesson01.dll
+D:\devmaster.edu.vn\DEV2611LM-.NET\dev2611lm-cshapr.net\Lesson01\Lesson01\obj\Debug\net9.0\Lesson01.sourcelink.json
